@@ -1,0 +1,8 @@
+*~
+*.pyc
+*.png
+*.pdf
+*.npz
+*.swc
+saved/
+movies/
