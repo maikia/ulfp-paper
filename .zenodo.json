@@ -2,7 +2,7 @@
     "description": "<p>Code to accompany the paper \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\".</p>\n<p>Submitted to J Physiol</p>", 
     "license": "other-open", 
     "title": "Code for \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\"", 
-    "version": "v0.9.2", 
+    "version": "v0.9.3", 
     "upload_type": "software", 
     "publication_date": "2020-04-11", 
     "creators": [
