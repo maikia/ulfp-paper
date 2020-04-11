@@ -1,7 +1,7 @@
 {
     "description": "<p>Code to accompany the paper \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\".</p>\n<p>Submitted to J Physiol</p>", 
     "license": "other-open", 
-    "title": "maikia/ulfp-paper: Code for \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\"", 
+    "title": "Code for \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\"", 
     "version": "v0.9.0", 
     "upload_type": "software", 
     "publication_date": "2020-04-11", 
@@ -15,7 +15,7 @@
             "name": "Telenczuk Bartosz"
         },
         {
-            "affiliation": "Destexhe Alain", 
+            "affiliation": "NeuroPSI, Gif-sur-Yvette, France", 
             "name": "Destexhe Alain"
         }
     ], 
