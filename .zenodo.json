@@ -1,0 +1,35 @@
+{
+    "description": "<p>Code to accompany the paper \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\".</p>\n<p>Submitted to J Physiol</p>", 
+    "license": "other-open", 
+    "title": "maikia/ulfp-paper: Code for \"Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus\"", 
+    "version": "v0.9.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-04-11", 
+    "creators": [
+        {
+            "affiliation": "Center for Data Science, Inria, France", 
+            "name": "Telenczuk Maria"
+        },
+        {
+            "affiliation": "Paris, France", 
+            "name": "Telenczuk Bartosz"
+        },
+        {
+            "affiliation": "Destexhe Alain", 
+            "name": "Destexhe Alain"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/maikia/ulfp-paper/tree/v0.9.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3748369", 
+            "relation": "isVersionOf"
+        }
+    ]
+}
