@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikia/ulfp-paper/master?filepath=index.ipynb)
+[![DOI](https://zenodo.org/badge/160657417.svg)](https://zenodo.org/badge/latestdoi/160657417)
+
 
 Code for paper "Modeling unitary fields and the single-neuron contribution to local field potentials in the hippocampus" by Telenczuk Maria & Bartosz, Alain Destexhe.
 
